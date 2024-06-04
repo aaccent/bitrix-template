@@ -25,7 +25,3 @@ local/css/
 local/js/
 local/assets/
 ./local/*.html
-
-# IDE
-.idea
-.vscode
