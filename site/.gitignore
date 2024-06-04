@@ -1,0 +1,31 @@
+# bitrix
+bitrix/
+upload/
+
+# logs
+/*.log
+/*.sql
+
+# sitemaps and txt except robots.txt
+/*.txt
+!/robots.txt
+/sitemap*.xml
+
+# archives
+/*.tar.gz
+/*.gz
+/*.tar
+
+# other
+/*.bak
+/*.old
+
+# layout
+local/css/
+local/js/
+local/assets/
+./local/*.html
+
+# IDE
+.idea
+.vscode
